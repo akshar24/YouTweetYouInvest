@@ -1,4 +1,4 @@
-# YouTweetYouInvest
+# VTHacks2021-YouTweetYouInvest
 VTHacks project for Young Investors
 ## Inspiration
 
